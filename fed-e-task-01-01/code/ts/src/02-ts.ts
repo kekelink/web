@@ -20,6 +20,8 @@ const g:undefined=undefined
 // 这里报错 'Symbol' only refers to a type, but is being used as a value here. Do you need to change your target library? Try changing the `lib` compiler option to es2015 or later.
 //是因为Symbol是es2015才有的  ts使用的标准库没有  在tsconfig.json设置  "lib": ["es2015","DOM"]
 //以后遇到内置方法报错的时候可能就是标准库的关系 在在tsconfig.json设置  "lib" 就好了
-const h:symbol=Symbol()
+// const h:symbol=Symbol()
+const s=hello
+console.log(s('2'));
 
-export {}
+// export {}

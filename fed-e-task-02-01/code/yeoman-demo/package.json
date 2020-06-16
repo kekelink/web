@@ -1,0 +1,12 @@
+{
+  "name": "yeoman-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "cli.js",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.10.1",
+    "inquirer": "^7.0.0",
+    "ejs": "^2.6.2"
+  }
+}
