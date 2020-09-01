@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/home",
+        "_name": "_a036d41e"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/login",
+        "_name": "_4ce67097"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/login",
+        "_name": "_4ce67097"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/profile",
+        "_name": "_f3991152"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/settings",
+        "_name": "_5d08f796"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/editor",
+        "_name": "_435bc5ff"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/liulang/web/advance/fed-etask-03-03/code/3-3-4-1-nuxtjs综合案例/pages/article",
+        "_name": "_6cfdbaa4"
+      }
+    ],
+    "_name": "_4f2a9fbc"
+  }
+]
